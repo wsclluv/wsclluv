@@ -8,8 +8,6 @@
 
 **Exceed expectations by doing your work and then some.**
 
-`building` · `breaking` · `learning`
-
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 </div>
