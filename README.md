@@ -10,8 +10,8 @@
 whoami   -> wscl
 location -> warsaw, poland (cet / utc+1)
 current  -> tinkering with my personal space on the web
+learning -> astro, cpp, py
 ```
-- 🦉 Definite night owl
 
 ---
 
